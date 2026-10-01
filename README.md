@@ -7,7 +7,7 @@ Welcome to my GitHub. Explore my web development projects, Android coursework an
 | Project | Overview | Technologies in the project |
 |---|---|---|
 | [Academic Copilot](https://github.com/Peppi-ai-summerproject/academic-copilot) | Tutor-facing academic support backend; team academic project. | Python, FastAPI, PostgreSQL, MCP, RAG |
-| [Financial Management](https://github.com/FinancialManagement1/fm-frontend) | Team academic project: financial management frontend. | See repository for implementation details |
+| [Financial Management](https://github.com/FinancialManagement1/fm-frontend) | Fontys exchange project: developed the frontend in a team of three, collaborating remotely with a separate backend team. | See repository for implementation details |
 | [CinePass](https://github.com/Poojapanchal3007/cinepass) | Team cinema ticket-booking web project. | See repository for implementation details |
 | [Eduswap](https://github.com/Poojapanchal3007/Eduwasp) | Book and educational resource exchange project documentation; source files are not currently included. | README and project documentation |
 | [Glamora](https://github.com/Poojapanchal3007/glamora-project) | Salon frontend and backend starter. | React, JavaScript, Python, FastAPI |
